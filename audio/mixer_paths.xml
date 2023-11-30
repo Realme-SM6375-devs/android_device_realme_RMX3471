@@ -3137,7 +3137,7 @@
         <ctl name="MBHC ChMap" value="SWRM_TX2_CH2" />
         <ctl name="BCS Channel" value="CH5" />
         <ctl name="ADC2 Volume" value="10" />
-        <ctl name="TX_DEC0 Volume" value="87" />
+        <ctl name="TX_DEC0 Volume" value="90" />
     </path>
 
     <!--#ifdef OPLUS_FEATURE_KTV-->
@@ -3266,7 +3266,7 @@
     </path>
 
     <path name="voice-headset-mic">
-        <ctl name="TX_DEC0 Volume" value="84" />
+        <ctl name="TX_DEC0 Volume" value="87" />
         <path name="amic2" />
     </path>
 
@@ -3412,7 +3412,7 @@
         <ctl name="TX SMIC MUX0" value="SWR_MIC0" />
         <ctl name="TX_AIF1_CAP Mixer DEC0" value="1" />
         <ctl name="ADC1_MIXER Switch" value="1" />
-        <ctl name="TX_DEC0 Volume" value="84" />
+        <ctl name="TX_DEC0 Volume" value="87" />
         <ctl name="ADC1 Volume" value="6" />
         <ctl name="TX DEC1 MUX" value="SWR_MIC" />
         <ctl name="ADC2 ChMap" value="SWRM_TX2_CH1" />
@@ -3432,7 +3432,7 @@
         <ctl name="TX_AIF1_CAP Mixer DEC0" value="1" />
         <ctl name="ADC2_MIXER Switch" value="1" />
         <ctl name="ADC2 MUX" value="INP3" />
-        <ctl name="TX_DEC1 Volume" value="84" />
+        <ctl name="TX_DEC1 Volume" value="87" />
         <ctl name="ADC2 Volume" value="6" />
         <ctl name="TX DEC1 MUX" value="SWR_MIC" />
         <ctl name="ADC1 ChMap" value="SWRM_TX1_CH1" />
@@ -3473,7 +3473,7 @@
         <ctl name="TX_AIF1_CAP Mixer DEC0" value="1" />
         <ctl name="ADC1_MIXER Switch" value="1" />
         <ctl name="ADC1 Volume" value="9" />
-        <ctl name="TX_DEC0 Volume" value="84" />
+        <ctl name="TX_DEC0 Volume" value="87" />
 
         <ctl name="TX DEC1 MUX" value="SWR_MIC" />
         <ctl name="ADC2 ChMap" value="SWRM_TX2_CH1" />
@@ -3481,7 +3481,7 @@
         <ctl name="TX_AIF1_CAP Mixer DEC1" value="1" />
         <ctl name="ADC2_MIXER Switch" value="1" />
         <ctl name="ADC2 MUX" value="INP3" />
-        <ctl name="TX_DEC1 Volume" value="84" />
+        <ctl name="TX_DEC1 Volume" value="87" />
         <ctl name="ADC2 Volume" value="9" />
     </path>
 
@@ -4411,7 +4411,7 @@
         <ctl name="ADC2 ChMap" value="SWRM_TX2_CH1" />
         <ctl name="MBHC ChMap" value="SWRM_TX2_CH2" />
         <ctl name="BCS Channel" value="CH5" />
-        <ctl name="TX_DEC0 Volume" value="62" />
+        <ctl name="TX_DEC0 Volume" value="66" />
         <ctl name="IIR0 INP0 MUX" value="DEC0" />
         <ctl name="RX INT0_1 MIX1 INP0" value="IIR0" />
         <ctl name="RX_CDC_DMA_RX_0 Channels" value="One" />
